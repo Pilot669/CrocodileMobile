@@ -26,6 +26,7 @@ public class Splash extends Activity {
                 Intent intent = new Intent(Splash.this, MainActivity.class);
                 Splash.this.startActivity(intent);
                 Splash.this.finish();
+
             }
         }, SPLASH_DISPLEY_LEHGHT);
 
@@ -34,8 +35,8 @@ public class Splash extends Activity {
         @Override
     public void onBackPressed(){
         super.onBackPressed();
-        }
 
+        }
 
 
 }
