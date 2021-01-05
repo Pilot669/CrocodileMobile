@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Crocodile Mobile</string>
     <string name="button">Button</string>
+    <string name="file_error">The file was not created</string>
 </resources>
